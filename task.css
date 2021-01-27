@@ -1,0 +1,99 @@
+body{
+	background-color: black;
+	color: lightblue;
+	font-family: arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.6em;
+}
+.container{
+	width: 100%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#para{
+    float : left;
+    font-size: 40px;
+    margin: 0;
+    padding: 10px 0;
+    font-weight: bolder;
+    color: purple;
+}
+
+.main-header{
+	display:inline;
+	background-color: #333;
+	color: orange;
+	margin-top: 30px;
+}
+#navbar{
+	color: yellow;
+	display: inline;
+}
+#navbar ul {
+  padding: 0px;
+  list-style: none;
+  float: right;
+}
+#navbar li {
+  display: inline;
+  margin-right: 30px;
+  padding-top: 18px;
+  position: relative; 
+}
+
+#navbar a {
+  color:white;
+  text-decoration: none;
+  font-size: 25px;
+  margin-right: 20px;s
+}
+#showcase h1{
+	color: yellow;
+	vertical-align: right;
+	font-size: 50px;
+	text-align: center;
+}
+#aboutme{
+	color: coral;
+	background-color: lightgrey;
+	font-size: 18px;
+	line-height: 1.6em;
+	font-family: sans-serif;
+}
+.myimg{
+	object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+}
+.icons{
+    text-align: center;
+    padding-top: 25px;
+}
+.icons a{
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.icons a:hover{
+    color: green;
+}
+#hobby{
+    text-align: center;
+    list-style: none;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#main-footer{
+	text-align: center;
+	font-size: 30px;
+	color: khaki;
+}
