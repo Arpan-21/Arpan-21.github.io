@@ -86,6 +86,11 @@ body{
 .icons a:hover{
     color: green;
 }
+.home{
+	display: flex;
+	background: url("gp.jpeg") no-repeat center;
+	height: 100vh;
+}
 #hobby{
     text-align: center;
     list-style: none;
