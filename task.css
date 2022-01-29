@@ -40,6 +40,7 @@ body{
   margin-right: 30px;
   padding-top: 18px;
   position: relative; 
+  transition: color 0.3s ease;
 }
 
 #navbar a {
@@ -85,6 +86,9 @@ body{
 }
 .icons a:hover{
     color: green;
+}
+.navbar .li a:hover{
+	color: crimson;
 }
 .home{
 	display: flex;
