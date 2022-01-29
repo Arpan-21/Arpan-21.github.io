@@ -43,7 +43,7 @@ body{
   margin-right: 30px;
   padding-top: 18px;
   position: relative; 
-  transition: color 0.3s ease;
+  transition:0.3s ease background-color;
 }
 
 #navbar a {
