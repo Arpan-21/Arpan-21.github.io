@@ -24,9 +24,8 @@ body{
 	display:inline;
 	background-color: #333;
 	color: orange;
-	margin-top: 10px;
+	margin-top: 05px;
 	display: flex;
-	background: url("gp.jpeg") no-repeat center;
 	height: 100vh;
 }
 #navbar{
@@ -41,7 +40,7 @@ body{
 #navbar li {
   display: inline;
   margin-right: 30px;
-  padding-top: 18px;
+  padding-top: 10px;
   position: relative; 
   transition:0.3s ease background-color;
 }
